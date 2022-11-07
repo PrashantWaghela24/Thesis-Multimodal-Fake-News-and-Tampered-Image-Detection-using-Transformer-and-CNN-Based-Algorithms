@@ -5,3 +5,8 @@ Developed Architecture:
 
 ![FinalThesisArchitecture](https://user-images.githubusercontent.com/97738294/200352842-466d6b41-a0a5-4612-858c-ea586a9e90ca.png)
 
+Deep Learning Algorithms and accuracy obtained: BERT (72%), XML_RoBERTa (66%), BERT+CNN (71%), BERT+InceptionV3 (70%), XML_RoBERTa+CNN (63%)
+
+Programming Language: Python
+
+Tools and Methodologies Used: Text Data Pre-processing - NLTK, Transformer-based Algorithms, Anaconda Navigator - Jupyter Notebook, Google Drive - Data Storing
