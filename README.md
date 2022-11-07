@@ -1,0 +1,2 @@
+# MULTIMODAL-FAKE-NEWS-AND-TAMPERED-IMAGE-DETECTION-USING-TRANSFORMER-AND-CNN-BASED-ALGORITHMS
+Internet access has made it easier for any news article or post to spread, resulting in quick access to information but, sometimes these platforms are exploited to spread fake information. The research contributes by developing three unique multimodal algorithms that classify fake news by processing the news text and its images simultaneously.
